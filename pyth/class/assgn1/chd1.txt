@@ -1,0 +1,2 @@
+8  69-64-80-195.dedicated.codero.net (69.64.80.195)  229.190 ms !X  233.047 ms !X  234.271 ms !X
+8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.374 ms !X  131.284 ms !X  132.644 ms !X

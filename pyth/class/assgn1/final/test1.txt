@@ -1,0 +1,9 @@
+traceroute to www.google.com (173.194.123.19), 30 hops max, 60 byte packets
+ 1  xfwsr12-plfi-01.sys.comcast.net (68.86.6.60)  170.312 ms  178.156 ms  182.825 ms
+ 2  be-16-ar03.plainfield.nj.panjde.comcast.net (68.85.35.177)  189.904 ms  197.163 ms  202.158 ms
+ 3  be-33659-cr02.newyork.ny.ibone.comcast.net (68.86.90.21)  207.379 ms  212.474 ms  223.595 ms
+ 4  he-0-14-0-1-pe03.111eighthave.ny.ibone.comcast.net (68.86.84.246)  234.011 ms  243.768 ms  238.751 ms
+ 5  as15169-2-c.111eighthave.ny.ibone.comcast.net (23.30.206.126)  411.540 ms  412.749 ms  415.322 ms
+ 6  209.85.248.178 (209.85.248.178)  401.827 ms  229.800 ms  110.831 ms
+ 7  72.14.239.245 (72.14.239.245)  116.295 ms  117.853 ms  120.227 ms
+ 8  lga15s46-in-f19.1e100.net (173.194.123.19)  121.575 ms  125.034 ms  126.251 ms

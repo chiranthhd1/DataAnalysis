@@ -1,0 +1,29 @@
+traceroute to www.karnataka.com (69.64.80.195), 30 hops max, 60 byte packets
+ 1  xfwsr12-plfi-01.sys.comcast.net (68.86.6.60)  50.803 ms  52.078 ms  55.344 ms
+ 2  be-16-ar03.plainfield.nj.panjde.comcast.net (68.85.35.177)  106.397 ms  108.398 ms  129.009 ms
+ 3  ae10.edge2.Newark1.Level3.net (4.68.71.125)  130.462 ms  131.583 ms  132.688 ms
+ 4  ae-0-11.bar2.Phoenix1.Level3.net (4.69.148.114)  170.145 ms  171.466 ms  172.600 ms
+ 5  * APH-INC.DBA.bar2.Phoenix1.Level3.net (4.28.82.158)  274.258 ms *
+ 6  edge1_cr1.phx.codero.com (216.55.184.98)  284.320 ms * *
+ 7  dr1-dg1-10G.cr1.phoenix.codero.com (69.64.66.26)  240.980 ms *  254.274 ms
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  259.843 ms !X  273.055 ms !X  294.447 ms !X
+Sun Feb 28 12:38:33 EST 2016
+traceroute to www.karnataka.com (69.64.80.195), 30 hops max, 60 byte packets
+ 1  xfwsr12-plfi-01.sys.comcast.net (68.86.6.60)  101.196 ms  103.632 ms  104.614 ms
+ 2  be-16-ar03.plainfield.nj.panjde.comcast.net (68.85.35.177)  109.016 ms  110.542 ms  111.636 ms
+ 3  ae10.edge2.Newark1.Level3.net (4.68.71.125)  102.254 ms  105.937 ms  107.004 ms
+ 4  ae-0-11.bar2.Phoenix1.Level3.net (4.69.148.114)  138.246 ms  154.039 ms  159.392 ms
+ 5  APH-INC.DBA.bar2.Phoenix1.Level3.net (4.28.82.158)  265.181 ms * *
+ 6  edge1_cr1.phx.codero.com (216.55.184.98)  286.614 ms  198.473 ms *
+ 7  * dr1-dg1-10G.cr1.phoenix.codero.com (69.64.66.26)  210.677 ms  214.081 ms
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  235.278 ms !X  236.664 ms !X  281.385 ms !X
+Sun Feb 28 12:38:58 EST 2016
+traceroute to www.karnataka.com (69.64.80.195), 30 hops max, 60 byte packets
+ 1  xfwsr12-plfi-01.sys.comcast.net (68.86.6.60)  49.540 ms  51.043 ms  108.110 ms
+ 2  be-16-ar03.plainfield.nj.panjde.comcast.net (68.85.35.177)  110.269 ms  113.974 ms  114.910 ms
+ 3  ae10.edge2.Newark1.Level3.net (4.68.71.125)  115.958 ms  117.244 ms  118.333 ms
+ 4  ae-0-11.bar2.Phoenix1.Level3.net (4.69.148.114)  161.929 ms  163.170 ms  164.221 ms
+ 5  APH-INC.DBA.bar2.Phoenix1.Level3.net (4.28.82.158)  272.221 ms  275.237 ms  302.435 ms
+ 6  edge1_cr1.phx.codero.com (216.55.184.98)  304.872 ms  202.572 ms  195.512 ms
+ 7  dr1-dg1-10G.cr1.phoenix.codero.com (69.64.66.26)  204.290 ms  207.376 ms  213.670 ms
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  217.857 ms !X  224.679 ms !X  239.210 ms !X

@@ -1,0 +1,574 @@
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  229.190 ms !X  233.047 ms !X  234.271 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.374 ms !X  131.284 ms !X  132.644 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  260.082 ms !X  261.386 ms !X  263.414 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  227.025 ms !X  228.880 ms !X  236.139 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  224.842 ms !X  234.178 ms !X  250.372 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  228.747 ms !X  236.161 ms !X  238.781 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.157 ms !X  122.858 ms !X  143.414 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.220 ms !X  142.700 ms !X  156.366 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  152.853 ms !X  154.039 ms !X  156.693 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  741.428 ms !X  767.278 ms !X  776.925 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  565.452 ms !X  483.613 ms !X  478.130 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  1081.370 ms !X  989.795 ms !X  984.934 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  116.678 ms !X  122.634 ms !X  127.604 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.503 ms !X * *
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.415 ms !X  144.607 ms !X  148.828 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.845 ms !X  139.380 ms !X  145.945 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.804 ms !X  131.264 ms !X  140.671 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.831 ms !X  127.217 ms !X  134.838 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.136 ms !X  136.810 ms !X  143.428 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  627.898 ms !X  629.007 ms !X  643.940 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  883.395 ms !X  1047.561 ms !X  168.307 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  650.905 ms !X  517.877 ms !X  100.881 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.301 ms !X  133.450 ms !X  144.338 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.454 ms !X  127.077 ms !X  133.078 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.414 ms !X  132.822 ms !X  134.551 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  219.089 ms !X  222.603 ms !X  221.209 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.145 ms !X  127.713 ms !X  133.796 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.090 ms !X  132.318 ms !X  134.736 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.080 ms !X  133.059 ms !X  134.184 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  135.303 ms !X  141.202 ms !X  156.689 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.444 ms !X  130.446 ms !X  147.685 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.624 ms !X  153.023 ms !X  180.657 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  1008.405 ms !X *  107.765 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.979 ms !X  131.460 ms !X  133.014 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.142 ms !X  131.893 ms !X  134.062 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  4592.659 ms !X  5722.642 ms !X  5723.960 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.731 ms !X  127.396 ms !X  137.232 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.443 ms !X  135.978 ms !X  144.746 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.726 ms !X  128.654 ms !X  132.953 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.868 ms !X  128.722 ms !X  131.868 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.018 ms !X  137.914 ms !X  139.849 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.233 ms !X  131.400 ms !X  134.163 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  193.324 ms !X  207.859 ms !X  216.470 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.113 ms !X  130.313 ms !X  131.520 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  170.923 ms !X  171.964 ms !X  175.274 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.583 ms !X  129.131 ms !X  137.163 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.053 ms !X  133.570 ms !X  143.866 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.470 ms !X  127.568 ms !X  162.789 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.274 ms !X  144.271 ms !X  106.220 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  132.169 ms !X  135.664 ms !X  137.085 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.168 ms !X  130.623 ms !X  139.561 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.755 ms !X  133.833 ms !X  135.169 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  134.906 ms !X  136.376 ms !X  138.837 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  119.388 ms !X  126.210 ms !X  130.961 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.028 ms !X  128.279 ms !X  133.590 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  130.164 ms !X  136.175 ms !X  139.798 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  163.689 ms !X  289.422 ms !X  508.559 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  139.863 ms !X  141.867 ms !X  158.577 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.351 ms !X  129.691 ms !X  134.250 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.146 ms !X  132.422 ms !X  138.466 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.802 ms !X  130.176 ms !X  134.935 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.431 ms !X  127.980 ms !X  142.625 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.772 ms !X  136.087 ms !X  137.373 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.517 ms !X  132.087 ms !X  135.290 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.123 ms !X  133.562 ms !X  140.735 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.422 ms !X  137.409 ms !X  138.884 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  135.079 ms !X  136.832 ms !X  141.527 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  134.272 ms !X  135.956 ms !X  144.308 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.418 ms !X  132.882 ms !X  136.683 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  132.381 ms !X  133.153 ms !X  141.472 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.436 ms !X  141.470 ms !X  151.021 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  137.309 ms !X  137.242 ms !X  137.687 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.144 ms !X  129.864 ms !X  134.995 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.361 ms !X  130.738 ms !X  131.824 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  136.663 ms !X  136.649 ms !X  141.183 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  147.768 ms !X  148.330 ms !X  148.312 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.560 ms !X  133.432 ms !X  138.667 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  100.113 ms !X  100.055 ms !X  99.881 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.424 ms !X  132.581 ms !X  134.905 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  170.321 ms !X  177.439 ms !X  178.481 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  135.182 ms !X  155.011 ms !X  147.533 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  144.874 ms !X  151.429 ms !X  175.255 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  504.105 ms !X  513.496 ms !X  526.371 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  134.309 ms !X  135.429 ms !X  136.647 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.629 ms !X  141.573 ms !X  142.931 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.364 ms !X  135.460 ms !X  172.220 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.413 ms !X  135.743 ms !X  166.089 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.867 ms !X  129.489 ms !X  144.606 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.931 ms !X  125.584 ms !X  135.005 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.142 ms !X  135.773 ms !X  134.117 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.870 ms !X  132.803 ms !X  137.975 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.671 ms !X  128.953 ms !X  132.821 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  1598.929 ms !X  494.536 ms !X  491.630 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.758 ms !X  129.907 ms !X  134.862 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.955 ms !X  133.108 ms !X  137.461 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  142.798 ms !X  144.153 ms !X  145.532 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.344 ms !X  135.189 ms !X  143.827 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.713 ms !X  133.515 ms !X  139.438 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.816 ms !X  136.392 ms !X  135.207 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  119.381 ms !X  129.137 ms !X  130.444 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.323 ms !X  143.942 ms !X  147.767 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.479 ms !X  140.176 ms !X  144.321 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.285 ms !X  136.112 ms !X  98.227 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  162.179 ms !X  163.359 ms !X  206.206 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  389.796 ms !X  623.256 ms !X  624.661 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  142.552 ms !X  143.866 ms !X  145.591 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.331 ms !X  133.796 ms !X  139.612 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  130.375 ms !X  135.567 ms !X  136.874 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.934 ms !X  130.844 ms !X  137.731 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.750 ms !X  137.424 ms !X  145.380 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.962 ms !X  142.808 ms !X  134.287 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  141.009 ms !X  145.716 ms !X  159.058 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.548 ms !X  138.244 ms !X  148.248 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  134.991 ms !X  143.203 ms !X  144.597 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  132.027 ms !X  140.143 ms !X  143.276 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  336.207 ms !X  354.014 ms !X  365.651 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  2893.708 ms !X  591.194 ms !X  827.642 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  732.169 ms !X  737.953 ms !X  739.311 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.014 ms !X  131.037 ms !X  138.737 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  514.943 ms !X  513.733 ms !X  512.084 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  950.267 ms !X  944.079 ms !X  969.169 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  3201.988 ms !X  3112.884 ms !X  3794.247 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  458.972 ms !X  345.450 ms !X  347.323 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.125 ms !X  133.112 ms !X  136.047 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.224 ms !X  162.668 ms !X  165.582 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  136.167 ms !X  143.378 ms !X  144.835 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  157.139 ms !X  236.180 ms !X  242.958 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.077 ms !X  130.281 ms !X  134.189 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  134.644 ms !X  141.787 ms !X  142.930 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  1539.111 ms !X  1287.362 ms !X  1289.123 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.643 ms !X  136.585 ms !X  140.108 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  184.731 ms !X  187.744 ms !X  189.391 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.541 ms !X  134.430 ms !X  139.362 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  962.122 ms !X  1055.668 ms !X  1172.909 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.223 ms !X  134.259 ms !X  132.522 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.536 ms !X  136.546 ms !X  138.366 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  130.398 ms !X  133.189 ms !X  135.801 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  135.638 ms !X  138.445 ms !X  184.067 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.244 ms !X  139.592 ms !X  140.731 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  176.278 ms !X  179.012 ms !X  180.042 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.359 ms !X  138.177 ms !X  141.020 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  182.116 ms !X  183.386 ms !X  184.454 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  138.192 ms !X  139.500 ms !X  140.609 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  275.402 ms !X  276.780 ms !X  277.846 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  324.482 ms !X  325.561 ms !X  327.268 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.988 ms !X  129.013 ms !X  134.225 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  792.114 ms !X  793.549 ms !X  795.588 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  734.835 ms !X  520.627 ms !X  534.392 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  139.802 ms !X  148.352 ms !X  149.699 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.529 ms !X  131.689 ms !X  135.472 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.292 ms !X  139.129 ms !X  141.153 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  712.737 ms !X  456.695 ms !X  460.119 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  130.232 ms !X  131.520 ms !X  135.425 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  430.451 ms !X  392.933 ms !X  396.035 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  421.525 ms !X  377.177 ms !X  378.882 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.919 ms !X  130.077 ms !X  137.789 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.400 ms !X  128.383 ms !X  130.729 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  144.686 ms !X  163.326 ms !X  170.063 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  526.385 ms !X  393.391 ms !X  523.059 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  670.754 ms !X  679.384 ms !X  697.389 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.731 ms !X  128.229 ms !X  132.612 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  137.446 ms !X  140.197 ms !X  141.550 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  683.750 ms !X  702.860 ms !X  704.257 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.766 ms !X  144.898 ms !X  168.625 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.842 ms !X  132.117 ms !X  137.640 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  134.988 ms !X  153.889 ms !X  154.989 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.600 ms !X  125.182 ms !X  135.012 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  142.621 ms !X  149.644 ms !X  150.981 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.896 ms !X  130.613 ms !X  133.802 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  159.187 ms !X  160.308 ms !X  161.417 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.953 ms !X  130.994 ms !X  140.040 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  157.458 ms !X  158.499 ms !X  159.632 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.128 ms !X  124.694 ms !X  135.125 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.478 ms !X  130.786 ms !X  135.932 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.297 ms !X  130.650 ms !X  153.639 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.737 ms !X  131.515 ms !X  139.056 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  171.013 ms !X  173.150 ms !X  171.829 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  759.942 ms !X  830.268 ms !X  430.801 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.658 ms !X  132.568 ms !X  137.509 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  168.179 ms !X  169.416 ms !X  170.523 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  130.996 ms !X  140.190 ms !X  142.935 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  121.967 ms !X  127.253 ms !X  131.661 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.682 ms !X  130.142 ms !X  140.630 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  136.129 ms !X  137.182 ms !X  183.459 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.433 ms !X  129.457 ms !X  134.501 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  119.837 ms !X  122.865 ms !X  132.963 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  119.547 ms !X  126.868 ms !X  131.194 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  118.033 ms !X  134.680 ms !X  137.621 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  146.536 ms !X  147.775 ms !X  151.294 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  154.457 ms !X  155.755 ms !X  156.771 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  130.780 ms !X  132.174 ms !X  157.397 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.252 ms !X  135.069 ms !X  178.060 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  121.922 ms !X  128.723 ms !X  136.878 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.991 ms !X  154.612 ms !X  162.069 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.662 ms !X  134.497 ms !X  135.876 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.799 ms !X  130.123 ms !X  137.795 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  112.672 ms !X  119.557 ms !X  142.250 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  134.409 ms !X  164.268 ms !X  165.482 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.934 ms !X  132.787 ms !X  136.623 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  121.497 ms !X  131.041 ms !X  167.000 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  148.001 ms !X  157.584 ms !X  158.957 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.605 ms !X  132.711 ms !X  136.513 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  143.293 ms !X  144.625 ms !X  145.818 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.298 ms !X  137.022 ms !X  140.443 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.882 ms !X  128.021 ms !X  157.339 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.830 ms !X  166.160 ms !X  169.473 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  119.629 ms !X  129.583 ms !X  139.933 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.343 ms !X  132.759 ms !X  134.610 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  150.298 ms !X  151.462 ms !X  152.605 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  149.593 ms !X  150.644 ms !X  151.824 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  148.781 ms !X  150.772 ms !X  152.027 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.589 ms !X  294.584 ms !X  310.556 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.399 ms !X  135.206 ms !X  136.579 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.036 ms !X  132.605 ms !X  137.573 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.330 ms !X  132.784 ms !X  134.303 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.458 ms !X  134.911 ms !X  164.702 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.908 ms !X  133.361 ms !X  134.704 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.962 ms !X  131.664 ms !X  134.429 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.003 ms !X  136.332 ms !X  137.659 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.085 ms !X  129.613 ms !X  140.792 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  118.548 ms !X  130.569 ms !X  134.719 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.781 ms !X  132.955 ms !X  142.851 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  141.322 ms !X  144.688 ms !X  147.499 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.197 ms !X  133.572 ms !X  138.538 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.561 ms !X  127.829 ms !X  137.850 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.577 ms !X  128.528 ms !X  161.111 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.944 ms !X  182.088 ms !X  184.387 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.504 ms !X  151.259 ms !X  153.625 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.124 ms !X  129.327 ms !X  131.917 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.102 ms !X  145.059 ms !X  149.979 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.997 ms !X  132.840 ms !X  134.129 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  134.116 ms !X  139.119 ms !X  143.885 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  135.562 ms !X  136.722 ms !X  178.404 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.791 ms !X  130.732 ms !X  154.101 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  163.862 ms !X  170.216 ms !X  175.182 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.031 ms !X  130.710 ms !X  140.729 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.304 ms !X  133.970 ms !X  135.390 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.039 ms !X  127.000 ms !X  131.703 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  119.723 ms !X  130.299 ms !X  136.868 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.953 ms !X  135.713 ms !X  139.990 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  153.383 ms !X  160.725 ms !X  163.994 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  147.980 ms !X  149.479 ms !X  150.513 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.961 ms !X  134.853 ms !X  139.595 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  150.754 ms !X  155.869 ms !X  157.138 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.914 ms !X  139.750 ms !X  161.531 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.212 ms !X  126.414 ms !X  131.052 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  139.676 ms !X  147.327 ms !X  152.133 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  154.431 ms !X  155.782 ms !X  156.926 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  323.257 ms !X  324.521 ms !X  325.527 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  211.721 ms !X  220.952 ms !X  222.429 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  138.359 ms !X  139.428 ms !X  150.317 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  128.900 ms !X  130.215 ms !X  136.091 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.123 ms !X  134.333 ms !X  136.098 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  134.097 ms !X  135.413 ms !X  142.985 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.986 ms !X  131.967 ms !X  133.048 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  124.486 ms !X  128.069 ms !X  135.543 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.570 ms !X  129.625 ms !X  175.371 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  123.457 ms !X  131.933 ms !X  133.182 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  122.690 ms !X  127.074 ms !X  133.536 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.289 ms !X  155.765 ms !X  157.104 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  195.311 ms !X  196.347 ms !X  206.254 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  131.553 ms !X  143.531 ms !X  147.388 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.064 ms !X  134.107 ms !X  135.224 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  141.034 ms !X  142.703 ms !X  143.942 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  178.683 ms !X  179.752 ms !X  180.791 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.687 ms !X  136.121 ms !X  139.739 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  127.557 ms !X  135.308 ms !X  132.066 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.868 ms !X  131.403 ms !X  132.725 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  121.719 ms !X  128.508 ms !X  133.922 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  167.104 ms !X  168.167 ms !X  169.498 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.624 ms !X  133.413 ms !X  144.929 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  121.184 ms !X  126.380 ms !X  141.603 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  147.586 ms !X  152.889 ms !X  153.932 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  982.482 ms !X  802.276 ms !X  822.946 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  133.544 ms !X  134.735 ms !X  136.110 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  904.956 ms !X  278.103 ms !X  665.042 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  120.101 ms !X  128.257 ms !X  133.756 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  121.889 ms !X  126.389 ms !X  136.277 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  126.488 ms !X  129.787 ms !X  135.836 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  159.022 ms !X  163.603 ms !X  176.606 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  121.550 ms !X  129.114 ms !X  132.740 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  125.449 ms !X  130.327 ms !X  135.377 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  184.176 ms !X  236.035 ms !X  237.944 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  129.699 ms !X  132.539 ms !X  146.127 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  130.239 ms !X  133.550 ms !X  143.488 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  561.256 ms !X  563.452 ms !X  564.470 ms !X
+
+ 8  69-64-80-195.dedicated.codero.net (69.64.80.195)  199.443 ms !X  198.329 ms !X  200.506 ms !X
+
