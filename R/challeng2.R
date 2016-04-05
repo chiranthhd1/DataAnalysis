@@ -1,0 +1,10 @@
+
+library(plyr)
+txhou <- read.csv("G:/pdfs/EM622/class/class2/tx-house-sales.csv")
+head(lowest_avg_price)
+tx = subset(txhou, is.na(avgprice)==FALSE)
+head(tx)
+lowest_avg_price = ddply(tx, c("city"), summarize, minprice = min(avgprice))
+head(lowest_avg_price)
+tx2 = subset(txhou, is.na(year)==FALSE, is.na(year)==FALSE)
+head(tx2)

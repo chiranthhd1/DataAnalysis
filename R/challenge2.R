@@ -1,0 +1,5 @@
+plot(firstgraph$cars,type="o",col="blue",ylim=c(0,12),xlab='Weekdays',xaxt ="n")
+lines(firstgraph$trucks,type="o",pch=22,lty=2,col="red")
+title(main="Autos", col.main="red",font.main=4)
+days = c("mon","tue","wed","thur","fri")
+axis(1, at=1:5,labels = days)

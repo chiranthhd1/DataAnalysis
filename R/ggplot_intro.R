@@ -1,0 +1,6 @@
+install.packages("ggplot2")
+library(ggplot2)
+View(economics)
+head(economics)
+tail(economics)
+ggplot(data=economics)+geom_line(aes())

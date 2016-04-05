@@ -1,0 +1,13 @@
+str(mtcars)
+head(mtcars)
+library(ggplot2)
+library(RColorBrewer)
+library(seriation)
+library(plyr)
+library(aplpack)
+library(GGally)
+ggparcoord(data=mtcars, columns = 1:10, groupColumn = 11)
+head(mtcars)
+#changing the numerical carb intp character
+mtcars$carb <- as.character(mtcars$carb)
+ggparcoord(data=mtcars, columns = 1:10, groupColumn = 11)

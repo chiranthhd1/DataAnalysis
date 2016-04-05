@@ -1,0 +1,7 @@
+head(USJudgeRatings)
+USJudgeRatings$dumm1 = rep(5,nrow(USJudgeRatings))
+USJudgeRatings$dumm2 = rep(6,nrow(USJudgeRatings))
+USJudgeRatings$dumm3 = rep(7,nrow(USJudgeRatings))
+head(USJudgeRatings)
+View(USJudgeRatings)
+faces(USJudgeRatings[1:15],face.type =1,main="face.type=1")
